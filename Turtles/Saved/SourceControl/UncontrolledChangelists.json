@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mumur/Documents/Unreal Projects/TurtlesAllTheWayDown/Turtles/Content/Maps/2d_Test.umap",
+				"C:/Users/mumur/Documents/Unreal Projects/TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/T_Sky.uasset",
+				"C:/Users/mumur/Documents/Unreal Projects/TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/T_BackgroundTrees.uasset",
+				"C:/Users/mumur/Documents/Unreal Projects/TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/T_ForegroundTrees.uasset",
+				"C:/Users/mumur/Documents/Unreal Projects/TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/T_TilesMain.uasset",
+				"C:/Users/mumur/Documents/Unreal Projects/TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Character/Character.uasset",
+				"C:/Users/mumur/Documents/Unreal Projects/TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/T_TilesMain_TileSet.uasset"
+			]
+		}
+	]
+}
