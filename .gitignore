@@ -1,6 +1,5 @@
 
-*.ush
-*.log
-*.ini
-*.ush
-Turtles/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+*.ush eol=crlf
+*.log eol=crlf
+*.ini eol=crlf
+Turtles/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_ea5d70b5306083b5/Default/DDCKey-Editor.txt eol=crlf
