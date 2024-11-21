@@ -17577,3 +17577,1327 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.21-00.30.16:348][850]AssetCheck: /Game/PaperAssets/Environment/MossyCavern/Plant_Animations/Plant_Animations/PlantJump2/JumpPlant_2_00018 Validating asset
 [2024.11.21-00.30.16:349][850]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/MossyCavern/Plant_Animations/Plant_Animations/PlantJump2/JumpPlant_2_00019.JumpPlant_2_00019
 [2024.11.21-00.30.16:349][850]AssetCheck: /Game/PaperAssets/Environment/MossyCavern/Plant_Animations/Plant_Animations/PlantJump2/JumpPlant_2_00019 Validating asset
+[2024.11.21-00.34.07:944][883]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Environment/Cave_Theme/cave.cave
+[2024.11.21-00.34.08:020][883]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/cave.cave (TFO_AutoDXT, 1280x720 x1x1x1) (Required Memory Estimate: 96.15625 MB), EncodeSpeed: Final
+[2024.11.21-00.35.29:671][ 53]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Environment/Cave_Theme/props.props
+[2024.11.21-00.35.29:719][ 53]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/props.props (TFO_AutoDXT, 500x500 x1x1x1) (Required Memory Estimate: 44.620799 MB), EncodeSpeed: Final
+[2024.11.21-00.35.33:530][492]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128.Tiles128x128
+[2024.11.21-00.35.33:578][492]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128.Tiles128x128 (TFO_AutoDXT, 500x500 x1x1x1) (Required Memory Estimate: 44.620799 MB), EncodeSpeed: Final
+[2024.11.21-00.36.08:545][121]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/long-platforms.long-platforms (BGRA8, 500x500 x1x1x1) (Required Memory Estimate: 7.373997 MB), EncodeSpeed: Fast
+[2024.11.21-00.36.08:546][121]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/props.props (BGRA8, 500x500 x1x1x1) (Required Memory Estimate: 7.373997 MB), EncodeSpeed: Final
+[2024.11.21-00.36.08:546][121]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128.Tiles128x128 (BGRA8, 500x500 x1x1x1) (Required Memory Estimate: 7.373997 MB), EncodeSpeed: Final
+[2024.11.21-00.36.08:553][121]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/cavetrees.cavetrees (BGRA8, 1080x1080 x1x1x1) (Required Memory Estimate: 34.175049 MB), EncodeSpeed: Fast
+[2024.11.21-00.36.08:564][122]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/caveassets.caveassets (BGRA8, 1920x1080 x1x1x1) (Required Memory Estimate: 60.707031 MB), EncodeSpeed: Fast
+[2024.11.21-00.36.28:225][629]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_MossyHills.Mossy_-_MossyHills (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 122.72916 MB), EncodeSpeed: Fast
+[2024.11.21-00.36.28:227][630]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_FloatingPlatforms.Mossy_-_FloatingPlatforms (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 122.72916 MB), EncodeSpeed: Fast
+[2024.11.21-00.36.28:261][631]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Hanging_Plants.Mossy_-_Hanging_Plants (BGRA8, 2048x2948 x1x1x1) (Required Memory Estimate: 176.63541 MB), EncodeSpeed: Fast
+[2024.11.21-00.36.28:335][637]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_TileSet.Mossy_-_TileSet (BGRA8, 3584x3584 x1x1x1) (Required Memory Estimate: 375.72916 MB), EncodeSpeed: Fast
+[2024.11.21-00.36.28:399][639]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Decorations_Hazards.Mossy_-_Decorations_Hazards (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 490.72916 MB), EncodeSpeed: Fast
+[2024.11.21-00.36.28:554][648]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_BackgroundDecoration.Mossy_-_BackgroundDecoration (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 490.72916 MB), EncodeSpeed: Fast
+[2024.11.21-00.37.00:751][995]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight.BlackLight (BGRA8, 1280x720 x1x1x1) (Required Memory Estimate: 27.015625 MB), EncodeSpeed: Fast
+[2024.11.21-00.37.00:751][995]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight.BlueLight (BGRA8, 1280x720 x1x1x1) (Required Memory Estimate: 27.015625 MB), EncodeSpeed: Fast
+[2024.11.21-00.37.00:752][995]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6.6 (BGRA8, 1280x720 x1x1x1) (Required Memory Estimate: 27.015625 MB), EncodeSpeed: Fast
+[2024.11.21-00.37.00:753][995]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5.5 (BGRA8, 1280x720 x1x1x1) (Required Memory Estimate: 27.015625 MB), EncodeSpeed: Fast
+[2024.11.21-00.37.00:753][995]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround.7ForeGround (BGRA8, 1280x720 x1x1x1) (Required Memory Estimate: 27.015625 MB), EncodeSpeed: Fast
+[2024.11.21-00.37.00:775][996]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4.4 (BGRA8, 1280x720 x1x1x1) (Required Memory Estimate: 27.015625 MB), EncodeSpeed: Fast
+[2024.11.21-00.37.00:777][996]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2.2 (BGRA8, 1280x720 x1x1x1) (Required Memory Estimate: 27.015625 MB), EncodeSpeed: Fast
+[2024.11.21-00.37.00:777][996]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3.3 (BGRA8, 1280x720 x1x1x1) (Required Memory Estimate: 27.015625 MB), EncodeSpeed: Fast
+[2024.11.21-00.37.00:779][996]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1.1 (BGRA8, 1280x720 x1x1x1) (Required Memory Estimate: 27.015625 MB), EncodeSpeed: Fast
+[2024.11.21-00.37.00:779][996]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00.00 (BGRA8, 1280x720 x1x1x1) (Required Memory Estimate: 27.015625 MB), EncodeSpeed: Fast
+[2024.11.21-00.37.00:795][996]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0.0 (BGRA8, 1280x720 x1x1x1) (Required Memory Estimate: 24.378906 MB), EncodeSpeed: Fast
+[2024.11.21-00.37.25:318][773]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.Tiles128x128_TileSet
+[2024.11.21-00.38.21:347][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.11.21-00.38.21:349][505]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/2d_Test' took 0.008
+[2024.11.21-00.38.21:349][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00] ([1] browsable assets)...
+[2024.11.21-00.38.21:351][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00.00]
+[2024.11.21-00.38.21:351][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00]
+[2024.11.21-00.38.21:360][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_Auto2
+[2024.11.21-00.38.21:360][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/00_Auto2DF616FE64C25520DD77EAC9B06DC5A06.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_Auto2.uasset'
+[2024.11.21-00.38.21:361][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0] ([1] browsable assets)...
+[2024.11.21-00.38.21:362][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0.0]
+[2024.11.21-00.38.21:362][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0]
+[2024.11.21-00.38.21:364][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_Auto2
+[2024.11.21-00.38.21:364][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/0_Auto2220ECC22445976C010B795A42F23C59D.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_Auto2.uasset'
+[2024.11.21-00.38.21:365][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1] ([1] browsable assets)...
+[2024.11.21-00.38.21:366][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1.1]
+[2024.11.21-00.38.21:366][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1]
+[2024.11.21-00.38.21:371][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_Auto2
+[2024.11.21-00.38.21:371][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/1_Auto28B95FECD452E3265042D8C81CFDE5B6E.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_Auto2.uasset'
+[2024.11.21-00.38.21:372][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2] ([1] browsable assets)...
+[2024.11.21-00.38.21:373][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2.2]
+[2024.11.21-00.38.21:373][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2]
+[2024.11.21-00.38.21:382][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_Auto2
+[2024.11.21-00.38.21:382][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/2_Auto2CE3BD4E847775022C3D8308B5488FC13.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_Auto2.uasset'
+[2024.11.21-00.38.21:383][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3] ([1] browsable assets)...
+[2024.11.21-00.38.21:384][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3.3]
+[2024.11.21-00.38.21:384][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3]
+[2024.11.21-00.38.21:395][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_Auto2
+[2024.11.21-00.38.21:395][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/3_Auto201E4D35443691156281CD1AAA514450F.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_Auto2.uasset'
+[2024.11.21-00.38.21:396][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4] ([1] browsable assets)...
+[2024.11.21-00.38.21:397][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4.4]
+[2024.11.21-00.38.21:397][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4]
+[2024.11.21-00.38.21:405][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_Auto2
+[2024.11.21-00.38.21:405][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/4_Auto2A3AFFFFB4899908CE03F0FB70944B6CC.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_Auto2.uasset'
+[2024.11.21-00.38.21:407][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5] ([1] browsable assets)...
+[2024.11.21-00.38.21:409][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5.5]
+[2024.11.21-00.38.21:409][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5]
+[2024.11.21-00.38.21:417][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_Auto2
+[2024.11.21-00.38.21:417][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/5_Auto25C0C17A8497F125C45ED84A67BC2F111.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_Auto2.uasset'
+[2024.11.21-00.38.21:419][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6] ([1] browsable assets)...
+[2024.11.21-00.38.21:420][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6.6]
+[2024.11.21-00.38.21:420][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6]
+[2024.11.21-00.38.21:429][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_Auto2
+[2024.11.21-00.38.21:429][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/6_Auto2397AF4CB4DB71EFD1D27B98F4AC40444.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_Auto2.uasset'
+[2024.11.21-00.38.21:430][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround] ([1] browsable assets)...
+[2024.11.21-00.38.21:431][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround.7ForeGround]
+[2024.11.21-00.38.21:431][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround]
+[2024.11.21-00.38.21:435][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_Auto2
+[2024.11.21-00.38.21:435][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/7ForeGround_Auto2508643F3492DC23B1816C7A8E3BB44FA.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_Auto2.uasset'
+[2024.11.21-00.38.21:436][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight] ([1] browsable assets)...
+[2024.11.21-00.38.21:437][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight.BlackLight]
+[2024.11.21-00.38.21:437][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight]
+[2024.11.21-00.38.21:443][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_Auto2
+[2024.11.21-00.38.21:443][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlackLight_Auto21AEC7D42489F209E1DC230BFF3F630BB.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_Auto2.uasset'
+[2024.11.21-00.38.21:444][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight] ([1] browsable assets)...
+[2024.11.21-00.38.21:445][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight.BlueLight]
+[2024.11.21-00.38.21:445][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight]
+[2024.11.21-00.38.21:456][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_Auto2
+[2024.11.21-00.38.21:456][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlueLight_Auto2906C3CAB45B6925346A09AAA36AFF802.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_Auto2.uasset'
+[2024.11.21-00.38.21:457][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/caveassets] ([1] browsable assets)...
+[2024.11.21-00.38.21:459][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/caveassets.caveassets]
+[2024.11.21-00.38.21:459][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/caveassets]
+[2024.11.21-00.38.21:469][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/caveassets_Auto2
+[2024.11.21-00.38.21:469][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/caveassets_Auto2CF510A78492F4AE18447BB8E791DE087.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/caveassets_Auto2.uasset'
+[2024.11.21-00.38.21:470][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/cavetrees] ([1] browsable assets)...
+[2024.11.21-00.38.21:471][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/cavetrees.cavetrees]
+[2024.11.21-00.38.21:471][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/cavetrees]
+[2024.11.21-00.38.21:479][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/cavetrees_Auto2
+[2024.11.21-00.38.21:479][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/cavetrees_Auto2AF1FC382418D27E135ACC8978AD92640.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/cavetrees_Auto2.uasset'
+[2024.11.21-00.38.21:480][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/long-platforms] ([1] browsable assets)...
+[2024.11.21-00.38.21:481][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/long-platforms.long-platforms]
+[2024.11.21-00.38.21:481][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/long-platforms]
+[2024.11.21-00.38.21:485][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/long-platforms_Auto2
+[2024.11.21-00.38.21:485][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/long-platforms_Auto228B5D0C44743E408AA6E999FA0756392.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/long-platforms_Auto2.uasset'
+[2024.11.21-00.38.21:486][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/props] ([1] browsable assets)...
+[2024.11.21-00.38.21:487][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/props.props]
+[2024.11.21-00.38.21:487][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/props]
+[2024.11.21-00.38.21:490][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/props_Auto2
+[2024.11.21-00.38.21:490][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/props_Auto2B5FF280F43077285DEF1F0841BB88677.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/props_Auto2.uasset'
+[2024.11.21-00.38.21:491][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128] ([1] browsable assets)...
+[2024.11.21-00.38.21:493][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128.Tiles128x128]
+[2024.11.21-00.38.21:493][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128]
+[2024.11.21-00.38.21:496][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_Auto2
+[2024.11.21-00.38.21:496][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Tiles128x128_Auto25363DFF547498F52E9AF4399DA2EAD57.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_Auto2.uasset'
+[2024.11.21-00.38.21:497][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_BackgroundDecoration] ([1] browsable assets)...
+[2024.11.21-00.38.21:498][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_BackgroundDecoration.Mossy_-_BackgroundDecoration]
+[2024.11.21-00.38.21:498][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_BackgroundDecoration]
+[2024.11.21-00.38.21:559][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_BackgroundDecoration_Auto2
+[2024.11.21-00.38.21:559][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Mossy_-_BackgroundDecoration_Aut0322491F4F5140D9A2AFB89FD542D781.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_BackgroundDecoration_Auto2.uasset'
+[2024.11.21-00.38.21:560][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Decorations_Hazards] ([1] browsable assets)...
+[2024.11.21-00.38.21:562][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Decorations_Hazards.Mossy_-_Decorations_Hazards]
+[2024.11.21-00.38.21:562][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Decorations_Hazards]
+[2024.11.21-00.38.21:621][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Decorations_Hazards_Auto2
+[2024.11.21-00.38.21:621][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Mossy_-_Decorations_Hazards_Auto278918E54A1DF98DA2262C8E7545C4F1.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Decorations_Hazards_Auto2.uasset'
+[2024.11.21-00.38.21:622][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_FloatingPlatforms] ([1] browsable assets)...
+[2024.11.21-00.38.21:625][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_FloatingPlatforms.Mossy_-_FloatingPlatforms]
+[2024.11.21-00.38.21:625][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_FloatingPlatforms]
+[2024.11.21-00.38.21:650][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_FloatingPlatforms_Auto2
+[2024.11.21-00.38.21:650][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Mossy_-_FloatingPlatforms_Auto20CA5B9964BB4CF470D4C7183960DE13F.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_FloatingPlatforms_Auto2.uasset'
+[2024.11.21-00.38.21:651][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Hanging_Plants] ([1] browsable assets)...
+[2024.11.21-00.38.21:653][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Hanging_Plants.Mossy_-_Hanging_Plants]
+[2024.11.21-00.38.21:653][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Hanging_Plants]
+[2024.11.21-00.38.21:676][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Hanging_Plants_Auto2
+[2024.11.21-00.38.21:676][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Mossy_-_Hanging_Plants_Auto21B026BC242A49EE8E507FBA4FA708E16.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Hanging_Plants_Auto2.uasset'
+[2024.11.21-00.38.21:677][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_MossyHills] ([1] browsable assets)...
+[2024.11.21-00.38.21:679][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_MossyHills.Mossy_-_MossyHills]
+[2024.11.21-00.38.21:679][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_MossyHills]
+[2024.11.21-00.38.21:699][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_MossyHills_Auto2
+[2024.11.21-00.38.21:699][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Mossy_-_MossyHills_Auto288F566CA4E3C4944DDE078954BD4FCC4.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_MossyHills_Auto2.uasset'
+[2024.11.21-00.38.21:700][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_TileSet] ([1] browsable assets)...
+[2024.11.21-00.38.21:701][505]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_TileSet.Mossy_-_TileSet]
+[2024.11.21-00.38.21:701][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_TileSet]
+[2024.11.21-00.38.21:748][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_TileSet_Auto2
+[2024.11.21-00.38.21:748][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Mossy_-_TileSet_Auto21EC21FB946DCEF07F134FDA47C674165.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_TileSet_Auto2.uasset'
+[2024.11.21-00.38.21:749][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet] ([1] browsable assets)...
+[2024.11.21-00.38.21:750][505]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.Tiles128x128_TileSet]
+[2024.11.21-00.38.21:750][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet]
+[2024.11.21-00.38.21:784][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet_Auto2
+[2024.11.21-00.38.21:784][505]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Tiles128x128_TileSet_Auto292B2CD4440072A07611B2295F0C8D362.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet_Auto2.uasset'
+[2024.11.21-00.38.21:785][505]LogFileHelpers: Auto-saving content packages took 0.437
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: ================================================
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Total job queries 32, among them cache hits 4 (12.50%), DDC hits 18 (56.25%), Duplicates 2 (6.25%)
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Tracking 26 distinct input hashes that result in 24 distinct outputs (92.31%)
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: RAM used: 602.29 KiB of 1.60 GiB budget. Usage: 0.04%
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Shaders Compiled: 8
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Average time worker was idle: 844.25 s
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.13 s
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Job execution time: average 1.15 s, max 1.67 s
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Job life time (pending + execution): average 1.23 s, max 1.73
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Shader code size: average 35.583 KiB, min 4.648 KiB, max 61.059 KiB
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.68 s
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Average processing rate: 2.17 jobs/sec
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Total thread time: 2.663 s
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Total thread preprocess time: 0.363 s
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Percentage time preprocessing: 13.65%
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Effective parallelization: 0.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.53 sec, min 0.45 sec)
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.29 sec, max 0.35 sec, min 0.23 sec)
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 36.87% of total time (compiled    2 times, average 0.49 sec, max 0.53 sec, min 0.45 sec)
+[2024.11.21-00.39.45:485][484]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.75% of total time (compiled    2 times, average 0.29 sec, max 0.35 sec, min 0.23 sec)
+[2024.11.21-00.39.45:486][484]LogShaderCompilers: Display:                                                  FHitProxyPS - 13.18% of total time (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2024.11.21-00.39.45:486][484]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect - 10.23% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.11.21-00.39.45:486][484]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.07% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.11.21-00.39.45:486][484]LogShaderCompilers: Display: === Material stats ===
+[2024.11.21-00.39.45:486][484]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.21-00.39.45:486][484]LogShaderCompilers: Display: Materials Translated:    111
+[2024.11.21-00.39.45:486][484]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2024.11.21-00.39.45:486][484]LogShaderCompilers: Display: Material Translation Only: 0.03 s (43%)
+[2024.11.21-00.39.45:486][484]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.11.21-00.39.45:486][484]LogShaderCompilers: Display: Material Cache Hits: 28 (25%)
+[2024.11.21-00.39.45:486][484]LogShaderCompilers: Display: ================================================
+[2024.11.21-00.41.49:600][936]Cmd: TRANSACTION UNDO
+[2024.11.21-00.41.49:601][936]LogEditorTransaction: Undo Edit Y
+[2024.11.21-00.41.50:087][965]Cmd: TRANSACTION UNDO
+[2024.11.21-00.41.50:087][965]LogEditorTransaction: Undo Edit X
+[2024.11.21-00.41.50:468][  9]Cmd: TRANSACTION UNDO
+[2024.11.21-00.41.50:468][  9]LogEditorTransaction: Undo Edit Y
+[2024.11.21-00.41.51:006][ 73]Cmd: TRANSACTION UNDO
+[2024.11.21-00.41.51:006][ 73]LogEditorTransaction: Undo Edit X
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: ================================================
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Total job queries 34, among them cache hits 4 (11.76%), DDC hits 18 (52.94%), Duplicates 2 (5.88%)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 26 distinct outputs (92.86%)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: RAM used: 627.58 KiB of 1.60 GiB budget. Usage: 0.04%
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Shaders Compiled: 10
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Average time worker was idle: 581.77 s
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.13 s
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 1.67 s
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Job life time (pending + execution): average 1.14 s, max 1.73
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Shader code size: average 32.327 KiB, min 4.527 KiB, max 61.059 KiB
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.49 s
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Average processing rate: 2.22 jobs/sec
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Total thread time: 3.226 s
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Total thread preprocess time: 0.377 s
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Percentage time preprocessing: 11.67%
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Effective parallelization: 0.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.53 sec, min 0.45 sec)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.34 sec, max 0.35 sec, min 0.33 sec)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.29 sec, max 0.35 sec, min 0.23 sec)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.25 sec, max 0.27 sec, min 0.23 sec)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.44% of total time (compiled    2 times, average 0.49 sec, max 0.53 sec, min 0.45 sec)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display:                                                  FHitProxyPS - 21.26% of total time (compiled    2 times, average 0.34 sec, max 0.35 sec, min 0.33 sec)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.95% of total time (compiled    2 times, average 0.29 sec, max 0.35 sec, min 0.23 sec)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display:                                                  FHitProxyVS - 15.39% of total time (compiled    2 times, average 0.25 sec, max 0.27 sec, min 0.23 sec)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect - 8.44% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: === Material stats ===
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Materials Translated:    111
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Material Translation Only: 0.03 s (43%)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: Material Cache Hits: 28 (25%)
+[2024.11.21-00.42.45:526][769]LogShaderCompilers: Display: ================================================
+[2024.11.21-00.43.40:081][916]Cmd: TRANSACTION UNDO
+[2024.11.21-00.43.40:081][916]LogEditorTransaction: Undo Add Box Shape
+[2024.11.21-00.44.33:643][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.21-00.44.33:649][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.21-00.44.33:672][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00] ([1] browsable assets)...
+[2024.11.21-00.44.33:673][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00]
+[2024.11.21-00.44.33:682][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00
+[2024.11.21-00.44.33:682][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/00643F7E0344352DDF373D70B3D0F29199.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00.uasset'
+[2024.11.21-00.44.33:684][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0] ([1] browsable assets)...
+[2024.11.21-00.44.33:684][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0]
+[2024.11.21-00.44.33:685][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0
+[2024.11.21-00.44.33:686][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/06292D5734AECF999BD9074AB373380B9.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0.uasset'
+[2024.11.21-00.44.33:687][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1] ([1] browsable assets)...
+[2024.11.21-00.44.33:687][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1]
+[2024.11.21-00.44.33:692][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1
+[2024.11.21-00.44.33:692][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/160B972954C5CBA3199AFE8996B51C8C0.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1.uasset'
+[2024.11.21-00.44.33:693][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2] ([1] browsable assets)...
+[2024.11.21-00.44.33:693][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2]
+[2024.11.21-00.44.33:702][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2
+[2024.11.21-00.44.33:703][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/272E028BC4E61F2E9F8BF23B2EBDC3E4B.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2.uasset'
+[2024.11.21-00.44.33:704][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3] ([1] browsable assets)...
+[2024.11.21-00.44.33:704][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3]
+[2024.11.21-00.44.33:714][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3
+[2024.11.21-00.44.33:715][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/3D0F1479B45F23FEF2927B78F044D243F.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3.uasset'
+[2024.11.21-00.44.33:716][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4] ([1] browsable assets)...
+[2024.11.21-00.44.33:716][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4]
+[2024.11.21-00.44.33:724][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4
+[2024.11.21-00.44.33:724][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/46E32D21E45D952D403DECAB7E53E58C3.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4.uasset'
+[2024.11.21-00.44.33:726][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5] ([1] browsable assets)...
+[2024.11.21-00.44.33:726][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5]
+[2024.11.21-00.44.33:734][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5
+[2024.11.21-00.44.33:734][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/5B4A0F65F46D10DF8A699E8AB018BD034.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5.uasset'
+[2024.11.21-00.44.33:736][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6] ([1] browsable assets)...
+[2024.11.21-00.44.33:736][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6]
+[2024.11.21-00.44.33:745][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6
+[2024.11.21-00.44.33:746][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/6483B44B547F3FE87E91EBFB3831C3DCC.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6.uasset'
+[2024.11.21-00.44.33:747][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround] ([1] browsable assets)...
+[2024.11.21-00.44.33:747][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround]
+[2024.11.21-00.44.33:750][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround
+[2024.11.21-00.44.33:751][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/7ForeGroundC663A9AB41E7E194A669509C27EB94F2.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround.uasset'
+[2024.11.21-00.44.33:752][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight] ([1] browsable assets)...
+[2024.11.21-00.44.33:752][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight]
+[2024.11.21-00.44.33:758][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight
+[2024.11.21-00.44.33:759][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlackLight685D2EE742E80F571033E795915C1B00.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight.uasset'
+[2024.11.21-00.44.33:760][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight] ([1] browsable assets)...
+[2024.11.21-00.44.33:760][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight]
+[2024.11.21-00.44.33:769][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight
+[2024.11.21-00.44.33:770][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlueLightD8A73B23431C4EB18D117184EE0093F6.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight.uasset'
+[2024.11.21-00.44.33:771][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/caveassets] ([1] browsable assets)...
+[2024.11.21-00.44.33:772][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/caveassets]
+[2024.11.21-00.44.33:783][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/caveassets
+[2024.11.21-00.44.33:783][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/caveassets12C6339441781D222FC6E0A13C3539B7.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/caveassets.uasset'
+[2024.11.21-00.44.33:784][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/cavetrees] ([1] browsable assets)...
+[2024.11.21-00.44.33:784][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/cavetrees]
+[2024.11.21-00.44.33:792][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/cavetrees
+[2024.11.21-00.44.33:793][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/cavetreesBB21047843864FD5AA8AB5AFAB3615CC.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/cavetrees.uasset'
+[2024.11.21-00.44.33:794][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/long-platforms] ([1] browsable assets)...
+[2024.11.21-00.44.33:794][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/long-platforms]
+[2024.11.21-00.44.33:798][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/long-platforms
+[2024.11.21-00.44.33:798][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/long-platformsD281024844830439495E63851F14C479.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/long-platforms.uasset'
+[2024.11.21-00.44.33:799][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/props] ([1] browsable assets)...
+[2024.11.21-00.44.33:799][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/props]
+[2024.11.21-00.44.33:801][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/props
+[2024.11.21-00.44.33:802][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/props27BFC10F49B166BB5ABD6696835639A3.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/props.uasset'
+[2024.11.21-00.44.33:803][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128] ([1] browsable assets)...
+[2024.11.21-00.44.33:803][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128]
+[2024.11.21-00.44.33:807][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128
+[2024.11.21-00.44.33:807][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Tiles128x1288A4F4C3B4AE468981F935E9554EF8E68.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/Tiles128x128.uasset'
+[2024.11.21-00.44.33:808][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_BackgroundDecoration] ([1] browsable assets)...
+[2024.11.21-00.44.33:808][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_BackgroundDecoration]
+[2024.11.21-00.44.33:866][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_BackgroundDecoration
+[2024.11.21-00.44.33:866][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Mossy_-_BackgroundDecorationAEAF873B409171A56BD6A49E090FBBEA.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_BackgroundDecoration.uasset'
+[2024.11.21-00.44.33:868][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Decorations_Hazards] ([1] browsable assets)...
+[2024.11.21-00.44.33:868][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Decorations_Hazards]
+[2024.11.21-00.44.33:928][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Decorations_Hazards
+[2024.11.21-00.44.33:928][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Mossy_-_Decorations_Hazards660191574F25E60AFE700FACEE9F6725.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Decorations_Hazards.uasset'
+[2024.11.21-00.44.33:930][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_FloatingPlatforms] ([1] browsable assets)...
+[2024.11.21-00.44.33:930][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_FloatingPlatforms]
+[2024.11.21-00.44.33:955][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_FloatingPlatforms
+[2024.11.21-00.44.33:956][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Mossy_-_FloatingPlatformsF897B3A142EBB270DEF833AA93B1D0FC.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_FloatingPlatforms.uasset'
+[2024.11.21-00.44.33:957][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Hanging_Plants] ([1] browsable assets)...
+[2024.11.21-00.44.33:957][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Hanging_Plants]
+[2024.11.21-00.44.33:980][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Hanging_Plants
+[2024.11.21-00.44.33:981][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Mossy_-_Hanging_Plants157C5A97454D6D39D9B71C8610344F80.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Hanging_Plants.uasset'
+[2024.11.21-00.44.33:982][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_MossyHills] ([1] browsable assets)...
+[2024.11.21-00.44.33:982][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_MossyHills]
+[2024.11.21-00.44.34:002][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_MossyHills
+[2024.11.21-00.44.34:003][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Mossy_-_MossyHills80C7492A435241183185768E6895065B.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_MossyHills.uasset'
+[2024.11.21-00.44.34:004][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_TileSet] ([1] browsable assets)...
+[2024.11.21-00.44.34:004][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_TileSet]
+[2024.11.21-00.44.34:053][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_TileSet
+[2024.11.21-00.44.34:053][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Mossy_-_TileSet54C9F62040FD8D5AE9B34499F6629D65.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_TileSet.uasset'
+[2024.11.21-00.44.34:056][418]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet] ([1] browsable assets)...
+[2024.11.21-00.44.34:059][418]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.Tiles128x128_TileSet]
+[2024.11.21-00.44.34:059][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet]
+[2024.11.21-00.44.34:135][418]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet
+[2024.11.21-00.44.34:135][418]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Tiles128x128_TileSetCE3183A6455AE673EBAEFBA32FFDDE7B.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.uasset'
+[2024.11.21-00.44.34:143][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 493.640 ms (total: 7.41 sec)
+[2024.11.21-00.44.34:177][418]LogContentValidation: Display: Starting to validate 23 assets
+[2024.11.21-00.44.34:177][418]LogContentValidation: Enabled validators:
+[2024.11.21-00.44.34:177][418]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.21-00.44.34:177][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.21-00.44.34:177][418]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.21-00.44.34:177][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00.00
+[2024.11.21-00.44.34:177][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00 Validating asset
+[2024.11.21-00.44.34:177][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0.0
+[2024.11.21-00.44.34:177][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0 Validating asset
+[2024.11.21-00.44.34:177][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1.1
+[2024.11.21-00.44.34:177][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1 Validating asset
+[2024.11.21-00.44.34:177][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2.2
+[2024.11.21-00.44.34:177][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2 Validating asset
+[2024.11.21-00.44.34:177][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3.3
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3 Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4.4
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4 Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5.5
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5 Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6.6
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6 Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround.7ForeGround
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight.BlackLight
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight.BlueLight
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/caveassets.caveassets
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/caveassets Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/cavetrees.cavetrees
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/cavetrees Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/long-platforms.long-platforms
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/long-platforms Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/props.props
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/props Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128.Tiles128x128
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128 Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_BackgroundDecoration.Mossy_-_BackgroundDecoration
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_BackgroundDecoration Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Decorations_Hazards.Mossy_-_Decorations_Hazards
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Decorations_Hazards Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_FloatingPlatforms.Mossy_-_FloatingPlatforms
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_FloatingPlatforms Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Hanging_Plants.Mossy_-_Hanging_Plants
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_Hanging_Plants Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_MossyHills.Mossy_-_MossyHills
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_MossyHills Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_TileSet.Mossy_-_TileSet
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/MossyCavern/Mossy_Assets/Mossy_Tileset/Mossy_-_TileSet Validating asset
+[2024.11.21-00.44.34:178][418]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.Tiles128x128_TileSet
+[2024.11.21-00.44.34:178][418]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet Validating asset
+[2024.11.21-00.44.35:671][522]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-00.44.35:671][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-00.44.35:687][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.11.21-00.44.44:943][656]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Environment/Cave_Theme/props.props
+[2024.11.21-00.45.59:159][775]LogContentBrowser: Deferred new asset file creation: Tiles128x128_TileMap
+[2024.11.21-00.45.59:166][775]LogContentBrowser: Creating deferred item: Tiles128x128_TileMap
+[2024.11.21-00.45.59:174][776]LogContentBrowser: Renaming the item being created (Deferred Item: Tiles128x128_TileMap).
+[2024.11.21-00.46.04:759][ 93]LogContentBrowser: Attempting asset rename: Tiles128x128_TileMap -> Tiles128x128_TileMap
+[2024.11.21-00.46.04:762][ 93]LogContentBrowser: End creating deferred item Tiles128x128_TileMap
+[2024.11.21-00.46.14:832][291]LogContentBrowser: Attempting asset rename: Tiles128x128_TileMap -> TM_Boss_Map
+[2024.11.21-00.46.14:873][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.21-00.46.14:900][291]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map] ([1] browsable assets)...
+[2024.11.21-00.46.14:900][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map]
+[2024.11.21-00.46.14:902][291]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map
+[2024.11.21-00.46.14:902][291]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/TM_Boss_Map528B6FD64F38EFCDF5EA21A3025CF5AE.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/TM_Boss_Map.uasset'
+[2024.11.21-00.46.14:911][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.821 ms (total: 7.45 sec)
+[2024.11.21-00.46.14:920][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.11.21-00.46.14:927][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.21-00.46.14:931][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.11.21-00.46.14:953][291]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.21-00.46.14:953][291]LogContentValidation: Enabled validators:
+[2024.11.21-00.46.14:953][291]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.21-00.46.14:953][291]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.21-00.46.14:953][291]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.21-00.46.14:953][291]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map.TM_Boss_Map
+[2024.11.21-00.46.14:953][291]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map Validating asset
+[2024.11.21-00.46.15:935][406]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map.TM_Boss_Map
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: ================================================
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Total job queries 36, among them cache hits 4 (11.11%), DDC hits 18 (50.00%), Duplicates 2 (5.56%)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Tracking 30 distinct input hashes that result in 27 distinct outputs (90.00%)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: RAM used: 648.08 KiB of 1.60 GiB budget. Usage: 0.04%
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Shaders Compiled: 12
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Average time worker was idle: 529.56 s
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.13 s
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Job execution time: average 1.02 s, max 1.67 s
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Job life time (pending + execution): average 1.09 s, max 1.73
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Shader code size: average 32.351 KiB, min 4.527 KiB, max 61.059 KiB
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.39 s
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Average processing rate: 2.23 jobs/sec
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Total thread time: 3.8 s
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Total thread preprocess time: 0.39 s
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Percentage time preprocessing: 10.26%
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Effective parallelization: 0.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.53 sec, min 0.45 sec)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.34 sec, max 0.35 sec, min 0.33 sec)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.29 sec, max 0.35 sec, min 0.23 sec)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.84% of total time (compiled    2 times, average 0.49 sec, max 0.53 sec, min 0.45 sec)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display:                                                  FHitProxyPS - 18.05% of total time (compiled    2 times, average 0.34 sec, max 0.35 sec, min 0.33 sec)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.25% of total time (compiled    2 times, average 0.29 sec, max 0.35 sec, min 0.23 sec)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display:                                                  FHitProxyVS - 13.07% of total time (compiled    2 times, average 0.25 sec, max 0.27 sec, min 0.23 sec)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.65% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: === Material stats ===
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Materials Translated:    111
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Material Translation Only: 0.03 s (43%)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: Material Cache Hits: 28 (25%)
+[2024.11.21-00.48.45:753][557]LogShaderCompilers: Display: ================================================
+[2024.11.21-00.50.03:477][783]Cmd: TRANSACTION UNDO
+[2024.11.21-00.50.03:477][783]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.50.37:211][377]Cmd: TRANSACTION UNDO
+[2024.11.21-00.50.37:212][377]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.50.39:626][632]Cmd: TRANSACTION UNDO
+[2024.11.21-00.50.39:626][632]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.50.41:106][808]Cmd: TRANSACTION UNDO
+[2024.11.21-00.50.41:107][808]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.50.44:233][149]Cmd: TRANSACTION UNDO
+[2024.11.21-00.50.44:233][149]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.50.48:646][670]Cmd: TRANSACTION REDO
+[2024.11.21-00.50.48:646][670]LogEditorTransaction: Redo Tile Paint Bucket
+[2024.11.21-00.50.50:974][914]Cmd: TRANSACTION UNDO
+[2024.11.21-00.50.50:974][914]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.50.59:039][880]Cmd: TRANSACTION UNDO
+[2024.11.21-00.50.59:039][880]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.51.00:350][  3]Cmd: TRANSACTION UNDO
+[2024.11.21-00.51.00:350][  3]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.51.01:599][151]Cmd: TRANSACTION UNDO
+[2024.11.21-00.51.01:599][151]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.51.02:701][281]Cmd: TRANSACTION UNDO
+[2024.11.21-00.51.02:701][281]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.51.03:779][377]Cmd: TRANSACTION UNDO
+[2024.11.21-00.51.03:780][377]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.51.06:730][725]Cmd: TRANSACTION REDO
+[2024.11.21-00.51.06:730][725]LogEditorTransaction: Redo Tile Paint Bucket
+[2024.11.21-00.51.16:243][830]Cmd: TRANSACTION UNDO
+[2024.11.21-00.51.16:243][830]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.51.30:636][513]Cmd: TRANSACTION UNDO
+[2024.11.21-00.51.30:636][513]LogEditorTransaction: Undo Tile Paint Bucket
+[2024.11.21-00.52.12:411][481]Cmd: TRANSACTION UNDO
+[2024.11.21-00.52.12:411][481]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-00.54.22:209][894]Cmd: TRANSACTION UNDO
+[2024.11.21-00.54.22:209][894]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-00.54.33:209][171]Cmd: TRANSACTION UNDO
+[2024.11.21-00.54.33:209][171]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-00.54.59:086][221]Cmd: TRANSACTION UNDO
+[2024.11.21-00.54.59:086][221]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-00.55.04:295][807]Cmd: TRANSACTION UNDO
+[2024.11.21-00.55.04:295][807]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-00.55.08:019][211]Cmd: TRANSACTION UNDO
+[2024.11.21-00.55.08:019][211]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-00.55.09:844][393]Cmd: TRANSACTION UNDO
+[2024.11.21-00.55.09:844][393]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-00.55.13:946][881]Cmd: TRANSACTION UNDO
+[2024.11.21-00.55.13:946][881]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-00.55.19:333][488]Cmd: TRANSACTION UNDO
+[2024.11.21-00.55.19:333][488]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-00.56.10:604][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.21-00.56.10:605][509]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/2d_Test' took 0.010
+[2024.11.21-00.56.10:606][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.10:607][509]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet.BlueLight_TileSet]
+[2024.11.21-00.56.10:607][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet]
+[2024.11.21-00.56.10:669][509]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet_Auto3
+[2024.11.21-00.56.10:669][509]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlueLight_TileSet_Auto315F1EF934809F8F5706A70ACD172F47B.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet_Auto3.uasset'
+[2024.11.21-00.56.10:670][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.10:672][509]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet.BlackLight_TileSet]
+[2024.11.21-00.56.10:672][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet]
+[2024.11.21-00.56.10:736][509]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet_Auto3
+[2024.11.21-00.56.10:736][509]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlackLight_TileSet_Auto3E52F4E5E40A4F82044B5458697FE18DE.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet_Auto3.uasset'
+[2024.11.21-00.56.10:737][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.10:739][509]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet.7ForeGround_TileSet]
+[2024.11.21-00.56.10:739][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet]
+[2024.11.21-00.56.10:801][509]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet_Auto3
+[2024.11.21-00.56.10:801][509]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/7ForeGround_TileSet_Auto3A2D9444447CF40C543FE6E92F40C8EEC.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet_Auto3.uasset'
+[2024.11.21-00.56.10:803][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.10:805][509]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet.6_TileSet]
+[2024.11.21-00.56.10:805][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet]
+[2024.11.21-00.56.10:870][509]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet_Auto3
+[2024.11.21-00.56.10:870][509]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/6_TileSet_Auto3B1ED12C24CEBF86938E5DEA75D7DFAE5.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet_Auto3.uasset'
+[2024.11.21-00.56.10:872][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.10:874][509]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet.5_TileSet]
+[2024.11.21-00.56.10:874][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet]
+[2024.11.21-00.56.10:935][509]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet_Auto3
+[2024.11.21-00.56.10:935][509]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/5_TileSet_Auto3F31CDDD044FB14C876B981BF9DD57307.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet_Auto3.uasset'
+[2024.11.21-00.56.10:936][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.10:938][509]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet.4_TileSet]
+[2024.11.21-00.56.10:938][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet]
+[2024.11.21-00.56.10:999][509]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet_Auto3
+[2024.11.21-00.56.10:999][509]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/4_TileSet_Auto39411503A4B1BD815ACD7059877A64C8C.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet_Auto3.uasset'
+[2024.11.21-00.56.11:001][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.11:005][509]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet.3_TileSet]
+[2024.11.21-00.56.11:005][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet]
+[2024.11.21-00.56.11:066][509]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet_Auto3
+[2024.11.21-00.56.11:066][509]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/3_TileSet_Auto36F57C1DF48D56AACFBDF37B3E6A81B64.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet_Auto3.uasset'
+[2024.11.21-00.56.11:067][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.11:069][509]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet.2_TileSet]
+[2024.11.21-00.56.11:069][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet]
+[2024.11.21-00.56.11:132][509]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet_Auto3
+[2024.11.21-00.56.11:132][509]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/2_TileSet_Auto34F526A254A36F4FBB39C88988B74F3B5.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet_Auto3.uasset'
+[2024.11.21-00.56.11:133][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.11:135][509]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet.1_TileSet]
+[2024.11.21-00.56.11:135][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet]
+[2024.11.21-00.56.11:197][509]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet_Auto3
+[2024.11.21-00.56.11:197][509]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/1_TileSet_Auto303A4396141E153DFCEE9D78466772115.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet_Auto3.uasset'
+[2024.11.21-00.56.11:198][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.11:200][509]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet.00_TileSet]
+[2024.11.21-00.56.11:200][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet]
+[2024.11.21-00.56.11:262][509]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet_Auto3
+[2024.11.21-00.56.11:262][509]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/00_TileSet_Auto328F00C5C4385346DED6A0FA139C5FBD4.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet_Auto3.uasset'
+[2024.11.21-00.56.11:263][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.11:265][509]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_TileSet.0_TileSet]
+[2024.11.21-00.56.11:265][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_TileSet]
+[2024.11.21-00.56.11:327][509]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_TileSet_Auto3
+[2024.11.21-00.56.11:327][509]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/0_TileSet_Auto3DF140C6D45B98F325EA4318851ED215B.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_TileSet_Auto3.uasset'
+[2024.11.21-00.56.11:328][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map] ([1] browsable assets)...
+[2024.11.21-00.56.11:328][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map]
+[2024.11.21-00.56.11:407][509]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map_Auto3
+[2024.11.21-00.56.11:407][509]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/TM_Boss_Map_Auto32552D07E48CF11C609D41AA95798A517.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Autosaves/Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map_Auto3.uasset'
+[2024.11.21-00.56.11:408][509]LogFileHelpers: Auto-saving content packages took 0.802
+[2024.11.21-00.56.15:551][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.21-00.56.15:556][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.21-00.56.15:578][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.15:579][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet]
+[2024.11.21-00.56.15:640][766]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet
+[2024.11.21-00.56.15:640][766]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlueLight_TileSet0D1679784C31E1B9021D6DA19919F533.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet.uasset'
+[2024.11.21-00.56.15:641][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.15:641][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet]
+[2024.11.21-00.56.15:703][766]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet
+[2024.11.21-00.56.15:703][766]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlackLight_TileSet3858A33C4D0D36F24D97938C1885C0EF.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet.uasset'
+[2024.11.21-00.56.15:704][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.15:704][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet]
+[2024.11.21-00.56.15:767][766]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet
+[2024.11.21-00.56.15:767][766]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/7ForeGround_TileSetD5CF5B49404D76069FB2CCB3AD34CB4C.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet.uasset'
+[2024.11.21-00.56.15:768][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.15:768][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet]
+[2024.11.21-00.56.15:830][766]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet
+[2024.11.21-00.56.15:830][766]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/6_TileSet95129E6745F65CC543E0458FF3D5C78C.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet.uasset'
+[2024.11.21-00.56.15:832][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.15:832][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet]
+[2024.11.21-00.56.15:893][766]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet
+[2024.11.21-00.56.15:893][766]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/5_TileSetF6995D0A44CEB4ECBBEF00B58D172FD7.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet.uasset'
+[2024.11.21-00.56.15:894][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.15:895][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet]
+[2024.11.21-00.56.15:957][766]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet
+[2024.11.21-00.56.15:957][766]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/4_TileSetA8C8D16B40E051B362DF25A8181C0EE1.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet.uasset'
+[2024.11.21-00.56.15:958][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.15:958][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet]
+[2024.11.21-00.56.16:020][766]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet
+[2024.11.21-00.56.16:020][766]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/3_TileSetAE63AE1B493824BA5ED1749F49A2841D.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet.uasset'
+[2024.11.21-00.56.16:022][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.16:022][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet]
+[2024.11.21-00.56.16:084][766]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet
+[2024.11.21-00.56.16:084][766]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/2_TileSet14B96DFD42B435A8F4A916B09B167ACB.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet.uasset'
+[2024.11.21-00.56.16:085][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.16:085][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet]
+[2024.11.21-00.56.16:147][766]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet
+[2024.11.21-00.56.16:147][766]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/1_TileSetF477E7714006CD84759343B7D361CD34.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet.uasset'
+[2024.11.21-00.56.16:148][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.16:148][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet]
+[2024.11.21-00.56.16:210][766]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet
+[2024.11.21-00.56.16:210][766]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/00_TileSetAECEB11546487CC6BC705091A5DBE428.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet.uasset'
+[2024.11.21-00.56.16:211][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_TileSet] ([1] browsable assets)...
+[2024.11.21-00.56.16:211][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_TileSet]
+[2024.11.21-00.56.16:273][766]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_TileSet
+[2024.11.21-00.56.16:273][766]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/0_TileSet5A9CCF064651D15A224E229F0786301D.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_TileSet.uasset'
+[2024.11.21-00.56.16:274][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map] ([1] browsable assets)...
+[2024.11.21-00.56.16:274][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map]
+[2024.11.21-00.56.16:352][766]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map
+[2024.11.21-00.56.16:352][766]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/TM_Boss_Map5197C14A4FE8EC141F7280827AE6F4AD.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/TM_Boss_Map.uasset'
+[2024.11.21-00.56.16:360][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 803.516 ms (total: 8.25 sec)
+[2024.11.21-00.56.16:386][766]LogContentValidation: Display: Starting to validate 12 assets
+[2024.11.21-00.56.16:386][766]LogContentValidation: Enabled validators:
+[2024.11.21-00.56.16:386][766]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.21-00.56.16:386][766]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.21-00.56.16:386][766]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.21-00.56.16:386][766]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet.BlueLight_TileSet
+[2024.11.21-00.56.16:386][766]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet Validating asset
+[2024.11.21-00.56.16:387][766]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet.BlackLight_TileSet
+[2024.11.21-00.56.16:387][766]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet Validating asset
+[2024.11.21-00.56.16:387][766]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet.7ForeGround_TileSet
+[2024.11.21-00.56.16:387][766]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet Validating asset
+[2024.11.21-00.56.16:387][766]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet.6_TileSet
+[2024.11.21-00.56.16:387][766]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet Validating asset
+[2024.11.21-00.56.16:387][766]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet.5_TileSet
+[2024.11.21-00.56.16:387][766]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet Validating asset
+[2024.11.21-00.56.16:387][766]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet.4_TileSet
+[2024.11.21-00.56.16:387][766]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet Validating asset
+[2024.11.21-00.56.16:387][766]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet.3_TileSet
+[2024.11.21-00.56.16:387][766]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet Validating asset
+[2024.11.21-00.56.16:387][766]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet.2_TileSet
+[2024.11.21-00.56.16:387][766]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet Validating asset
+[2024.11.21-00.56.16:387][766]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet.1_TileSet
+[2024.11.21-00.56.16:387][766]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet Validating asset
+[2024.11.21-00.56.16:387][766]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet.00_TileSet
+[2024.11.21-00.56.16:387][766]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet Validating asset
+[2024.11.21-00.56.16:387][766]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_TileSet.0_TileSet
+[2024.11.21-00.56.16:387][766]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/0_TileSet Validating asset
+[2024.11.21-00.56.16:387][766]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map.TM_Boss_Map
+[2024.11.21-00.56.16:387][766]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/TM_Boss_Map Validating asset
+[2024.11.21-00.57.33:835][833]LogSlate: Window 'New Level' being destroyed
+[2024.11.21-00.57.33:896][833]LogWorld: UWorld::CleanupWorld for 2d_Test, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-00.57.33:897][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-00.57.33:897][833]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.21-00.57.33:897][833]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.21-00.57.33:901][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.21-00.57.33:903][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.21-00.57.33:906][833]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.21-00.57.33:908][833]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.11.21-00.57.52:552][686]LogSlate: Window 'Save Level As' being destroyed
+[2024.11.21-00.57.52:619][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.11.21-00.57.52:623][686]LogSavePackage: Moving output files for package: /Game/Maps/BossTempLevel
+[2024.11.21-00.57.52:623][686]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BossTempLevel1F3266AC4865C0AF0DDDF2B65207ED97.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/BossTempLevel.umap'
+[2024.11.21-00.57.52:635][686]LogFileHelpers: Saving map 'BossTempLevel' took 0.075
+[2024.11.21-00.57.52:635][686]Cmd: MAP LOAD FILE="../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/BossTempLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.21-00.57.52:695][686]LogWorld: UWorld::CleanupWorld for BossTempLevel, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-00.57.52:695][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-00.57.52:696][686]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.21-00.57.52:696][686]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.21-00.57.52:700][686]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.21-00.57.52:700][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.21-00.57.52:702][686]LogAudio: Display: Audio Device (ID: 1) registered with world 'BossTempLevel'.
+[2024.11.21-00.57.52:703][686]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.21-00.57.52:726][686]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.21-00.57.52:732][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.21-00.57.52:737][686]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.21-00.57.52:738][686]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2024.11.21-00.57.52:765][686]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.21-00.57.52:765][686]LogContentValidation: Enabled validators:
+[2024.11.21-00.57.52:765][686]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.21-00.57.52:765][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.21-00.57.52:765][686]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.21-00.57.52:765][686]LogContentValidation: Display: Validating asset /Game/Maps/BossTempLevel.BossTempLevel
+[2024.11.21-00.57.52:765][686]AssetCheck: /Game/Maps/BossTempLevel Validating asset
+[2024.11.21-01.01.41:495][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.21-01.02.24:475][367]LogContentBrowser: Attempting asset rename: TM_Boss_Map -> TM_Temp_Boss_Map
+[2024.11.21-01.02.24:516][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.21-01.02.24:537][367]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map] ([1] browsable assets)...
+[2024.11.21-01.02.24:537][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map]
+[2024.11.21-01.02.24:614][367]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map
+[2024.11.21-01.02.24:614][367]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/TM_Temp_Boss_Map252AE7B6463A740BD533C9AE93D528FA.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.uasset'
+[2024.11.21-01.02.24:623][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.713 ms (total: 8.36 sec)
+[2024.11.21-01.02.24:631][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.11.21-01.02.24:636][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.21-01.02.24:641][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.11.21-01.02.24:661][367]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.21-01.02.24:661][367]LogContentValidation: Enabled validators:
+[2024.11.21-01.02.24:661][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.21-01.02.24:661][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.21-01.02.24:661][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.21-01.02.24:661][367]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.TM_Temp_Boss_Map
+[2024.11.21-01.02.24:661][367]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map Validating asset
+[2024.11.21-01.02.30:595][489]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.TM_Temp_Boss_Map
+[2024.11.21-01.02.30:595][489]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.TM_Temp_Boss_Map
+[2024.11.21-01.02.30:596][489]LogActorFactory: Actor Factory spawned PaperTileMap /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.TM_Temp_Boss_Map as actor: PaperTileMapActor /Game/Maps/BossTempLevel.BossTempLevel:PersistentLevel.PaperTileMapActor_0
+[2024.11.21-01.02.30:598][489]LogActorFactory: Actor Factory spawned PaperTileMap /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.TM_Temp_Boss_Map as actor: PaperTileMapActor /Game/Maps/BossTempLevel.BossTempLevel:PersistentLevel.PaperTileMapActor_0
+[2024.11.21-01.02.30:602][489]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.11.21-01.02.33:109][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.11.21-01.02.33:110][784]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.11.21-01.02.33:115][784]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.TM_Temp_Boss_Map
+[2024.11.21-01.02.33:115][784]LogActorFactory: Actor Factory attempting to spawn PaperTileMap /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.TM_Temp_Boss_Map
+[2024.11.21-01.02.33:117][784]LogActorFactory: Actor Factory spawned PaperTileMap /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.TM_Temp_Boss_Map as actor: PaperTileMapActor /Game/Maps/BossTempLevel.BossTempLevel:PersistentLevel.PaperTileMapActor_1
+[2024.11.21-01.02.33:118][784]LogActorFactory: Actor Factory spawned PaperTileMap /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.TM_Temp_Boss_Map as actor: PaperTileMapActor /Game/Maps/BossTempLevel.BossTempLevel:PersistentLevel.PaperTileMapActor_1
+[2024.11.21-01.03.53:699][ 91]LogContentBrowser: Deferred new asset file creation: Tiles128x128Padded
+[2024.11.21-01.03.53:713][ 91]LogContentBrowser: Creating deferred item: Tiles128x128Padded
+[2024.11.21-01.03.53:726][ 92]LogContentBrowser: Renaming the item being created (Deferred Item: Tiles128x128Padded).
+[2024.11.21-01.03.59:844][331]LogContentBrowser: Attempting asset rename: Tiles128x128Padded -> Tiles128x128Padded
+[2024.11.21-01.04.00:691][331]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128Padded.Tiles128x128Padded (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 30.72916 MB), EncodeSpeed: Fast
+[2024.11.21-01.04.00:693][331]LogContentBrowser: End creating deferred item Tiles128x128Padded
+[2024.11.21-01.04.33:173][454]LogContentBrowser: Deferred new asset file creation: BlueLightPadded
+[2024.11.21-01.04.33:188][454]LogContentBrowser: Creating deferred item: BlueLightPadded
+[2024.11.21-01.04.33:200][455]LogContentBrowser: Renaming the item being created (Deferred Item: BlueLightPadded).
+[2024.11.21-01.04.34:813][649]LogContentBrowser: Attempting asset rename: BlueLightPadded -> BlueLightPadded
+[2024.11.21-01.04.37:716][649]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLightPadded.BlueLightPadded (BGRA8, 2048x1024 x1x1x1) (Required Memory Estimate: 61.395821 MB), EncodeSpeed: Fast
+[2024.11.21-01.04.37:721][649]LogContentBrowser: End creating deferred item BlueLightPadded
+[2024.11.21-01.04.49:518][ 42]Cmd: TRANSACTION UNDO
+[2024.11.21-01.04.49:518][ 42]LogEditorTransaction: Undo Reset Location
+[2024.11.21-01.04.54:259][528]Cmd: TRANSACTION REDO
+[2024.11.21-01.04.54:259][528]LogEditorTransaction: Redo Reset Location
+[2024.11.21-01.04.56:897][786]LogContentBrowser: Deferred new asset file creation: BlueLightPaddedPadded
+[2024.11.21-01.04.56:910][786]LogContentBrowser: Creating deferred item: BlueLightPaddedPadded
+[2024.11.21-01.04.56:920][787]LogContentBrowser: Renaming the item being created (Deferred Item: BlueLightPaddedPadded).
+[2024.11.21-01.04.58:411][965]LogContentBrowser: Attempting asset rename: BlueLightPaddedPadded -> BlueLightPaddedPadded
+[2024.11.21-01.04.59:697][965]LogContentBrowser: End creating deferred item BlueLightPaddedPadded
+[2024.11.21-01.05.05:904][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.21-01.05.07:669][673]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.21-01.05.07:696][673]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-01.05.07:696][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.05.07:717][673]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLightPaddedPadded.BlueLightPaddedPadded
+	Asset Type: Texture2D
+[2024.11.21-01.05.07:824][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.21-01.05.07:830][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.21-01.05.07:834][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.11.21-01.05.07:847][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.11.21-01.05.11:051][ 46]Cmd: TRANSACTION UNDO
+[2024.11.21-01.05.11:051][ 46]LogEditorTransaction: Undo Reset Location
+[2024.11.21-01.05.18:112][814]Cmd: TRANSACTION REDO
+[2024.11.21-01.05.18:112][814]LogEditorTransaction: Redo Reset Location
+[2024.11.21-01.05.22:354][269]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet.BlueLight_TileSet
+[2024.11.21-01.05.24:553][521]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-01.05.24:553][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.05.24:563][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.21-01.05.35:104][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.21-01.05.47:900][698]LogSlate: Window 'Replace References?' being destroyed
+[2024.11.21-01.05.47:904][698]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with BlueLight_TileSet1; and then delete them.
+
+Are you sure?
+[2024.11.21-01.05.47:904][698]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.21-01.05.48:018][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.21-01.05.50:471][698]LogSlate: Window 'Save Content' being destroyed
+[2024.11.21-01.05.50:480][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.21-01.05.50:499][698]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet] ([1] browsable assets)...
+[2024.11.21-01.05.50:499][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet]
+[2024.11.21-01.05.50:499][698]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet
+[2024.11.21-01.05.50:500][698]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlueLight_TileSet368CF04D49A8074BE4BAB18850C1BAA9.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet.uasset'
+[2024.11.21-01.05.50:501][698]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map] ([1] browsable assets)...
+[2024.11.21-01.05.50:501][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map]
+[2024.11.21-01.05.50:579][698]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map
+[2024.11.21-01.05.50:579][698]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/TM_Temp_Boss_Map440DA7CD4871173BC44FC3BD3FD274C2.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.uasset'
+[2024.11.21-01.05.50:586][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.739 ms (total: 8.47 sec)
+[2024.11.21-01.05.50:611][698]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.21-01.05.50:611][698]LogContentValidation: Enabled validators:
+[2024.11.21-01.05.50:611][698]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.21-01.05.50:611][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.21-01.05.50:611][698]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.21-01.05.50:611][698]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet.BlueLight_TileSet
+[2024.11.21-01.05.50:612][698]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet Validating asset
+[2024.11.21-01.05.50:612][698]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.TM_Temp_Boss_Map
+[2024.11.21-01.05.50:612][698]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map Validating asset
+[2024.11.21-01.05.57:750][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.11.21-01.05.59:321][512]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.21-01.05.59:332][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.21-01.05.59:337][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.11.21-01.05.59:342][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.11.21-01.06.02:602][863]LogContentBrowser: Deferred new asset file creation: BlueLightPadded
+[2024.11.21-01.06.02:614][863]LogContentBrowser: Creating deferred item: BlueLightPadded
+[2024.11.21-01.06.02:625][864]LogContentBrowser: Renaming the item being created (Deferred Item: BlueLightPadded).
+[2024.11.21-01.06.03:956][ 24]LogContentBrowser: Attempting asset rename: BlueLightPadded -> BlueLightPadded
+[2024.11.21-01.06.06:913][ 24]LogContentBrowser: End creating deferred item BlueLightPadded
+[2024.11.21-01.06.10:619][445]LogContentBrowser: Deferred new asset file creation: BlackLightPadded
+[2024.11.21-01.06.10:647][445]LogContentBrowser: Creating deferred item: BlackLightPadded
+[2024.11.21-01.06.10:665][446]LogContentBrowser: Renaming the item being created (Deferred Item: BlackLightPadded).
+[2024.11.21-01.06.11:259][517]LogContentBrowser: Attempting asset rename: BlackLightPadded -> BlackLightPadded
+[2024.11.21-01.06.14:143][517]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLightPadded.BlackLightPadded (BGRA8, 2048x1024 x1x1x1) (Required Memory Estimate: 61.395821 MB), EncodeSpeed: Fast
+[2024.11.21-01.06.14:146][517]LogContentBrowser: End creating deferred item BlackLightPadded
+[2024.11.21-01.06.19:334][ 96]LogContentBrowser: Deferred new asset file creation: 7ForeGroundPadded
+[2024.11.21-01.06.19:348][ 96]LogContentBrowser: Creating deferred item: 7ForeGroundPadded
+[2024.11.21-01.06.19:360][ 97]LogContentBrowser: Renaming the item being created (Deferred Item: 7ForeGroundPadded).
+[2024.11.21-01.06.19:805][150]LogContentBrowser: Attempting asset rename: 7ForeGroundPadded -> 7ForeGroundPadded
+[2024.11.21-01.06.22:733][150]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGroundPadded.7ForeGroundPadded (BGRA8, 2048x1024 x1x1x1) (Required Memory Estimate: 61.395821 MB), EncodeSpeed: Fast
+[2024.11.21-01.06.22:737][150]LogContentBrowser: End creating deferred item 7ForeGroundPadded
+[2024.11.21-01.06.34:621][439]LogContentBrowser: Deferred new asset file creation: 6Padded
+[2024.11.21-01.06.34:634][439]LogContentBrowser: Creating deferred item: 6Padded
+[2024.11.21-01.06.34:646][440]LogContentBrowser: Renaming the item being created (Deferred Item: 6Padded).
+[2024.11.21-01.06.35:377][527]LogContentBrowser: Attempting asset rename: 6Padded -> 6Padded
+[2024.11.21-01.06.38:321][527]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6Padded.6Padded (BGRA8, 2048x1024 x1x1x1) (Required Memory Estimate: 61.395821 MB), EncodeSpeed: Fast
+[2024.11.21-01.06.38:327][527]LogContentBrowser: End creating deferred item 6Padded
+[2024.11.21-01.06.41:236][846]LogContentBrowser: Deferred new asset file creation: 5Padded
+[2024.11.21-01.06.41:251][846]LogContentBrowser: Creating deferred item: 5Padded
+[2024.11.21-01.06.41:262][847]LogContentBrowser: Renaming the item being created (Deferred Item: 5Padded).
+[2024.11.21-01.06.41:909][922]LogContentBrowser: Attempting asset rename: 5Padded -> 5Padded
+[2024.11.21-01.06.44:832][922]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5Padded.5Padded (BGRA8, 2048x1024 x1x1x1) (Required Memory Estimate: 61.395821 MB), EncodeSpeed: Fast
+[2024.11.21-01.06.44:836][922]LogContentBrowser: End creating deferred item 5Padded
+[2024.11.21-01.06.47:254][181]LogContentBrowser: Deferred new asset file creation: 4Padded
+[2024.11.21-01.06.47:268][181]LogContentBrowser: Creating deferred item: 4Padded
+[2024.11.21-01.06.47:280][182]LogContentBrowser: Renaming the item being created (Deferred Item: 4Padded).
+[2024.11.21-01.06.48:085][278]LogContentBrowser: Attempting asset rename: 4Padded -> 4Padded
+[2024.11.21-01.06.51:010][278]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4Padded.4Padded (BGRA8, 2048x1024 x1x1x1) (Required Memory Estimate: 61.395821 MB), EncodeSpeed: Fast
+[2024.11.21-01.06.51:013][278]LogContentBrowser: End creating deferred item 4Padded
+[2024.11.21-01.06.53:069][493]LogContentBrowser: Deferred new asset file creation: 3Padded
+[2024.11.21-01.06.53:085][493]LogContentBrowser: Creating deferred item: 3Padded
+[2024.11.21-01.06.53:096][494]LogContentBrowser: Renaming the item being created (Deferred Item: 3Padded).
+[2024.11.21-01.06.53:710][567]LogContentBrowser: Attempting asset rename: 3Padded -> 3Padded
+[2024.11.21-01.06.56:639][567]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3Padded.3Padded (BGRA8, 2048x1024 x1x1x1) (Required Memory Estimate: 61.395821 MB), EncodeSpeed: Fast
+[2024.11.21-01.06.56:641][567]LogContentBrowser: End creating deferred item 3Padded
+[2024.11.21-01.06.58:689][784]LogContentBrowser: Deferred new asset file creation: 2Padded
+[2024.11.21-01.06.58:701][784]LogContentBrowser: Creating deferred item: 2Padded
+[2024.11.21-01.06.58:712][785]LogContentBrowser: Renaming the item being created (Deferred Item: 2Padded).
+[2024.11.21-01.06.59:402][867]LogContentBrowser: Attempting asset rename: 2Padded -> 2Padded
+[2024.11.21-01.07.02:330][867]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2Padded.2Padded (BGRA8, 2048x1024 x1x1x1) (Required Memory Estimate: 61.395821 MB), EncodeSpeed: Fast
+[2024.11.21-01.07.02:334][867]LogContentBrowser: End creating deferred item 2Padded
+[2024.11.21-01.07.07:669][449]LogContentBrowser: Deferred new asset file creation: 1Padded
+[2024.11.21-01.07.07:681][449]LogContentBrowser: Creating deferred item: 1Padded
+[2024.11.21-01.07.07:693][450]LogContentBrowser: Renaming the item being created (Deferred Item: 1Padded).
+[2024.11.21-01.07.09:003][606]LogContentBrowser: Attempting asset rename: 1Padded -> 1Padded
+[2024.11.21-01.07.11:936][606]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1Padded.1Padded (BGRA8, 2048x1024 x1x1x1) (Required Memory Estimate: 61.395821 MB), EncodeSpeed: Fast
+[2024.11.21-01.07.11:942][606]LogContentBrowser: End creating deferred item 1Padded
+[2024.11.21-01.07.15:182][963]LogContentBrowser: Deferred new asset file creation: 0Padded
+[2024.11.21-01.07.15:197][963]LogContentBrowser: Creating deferred item: 0Padded
+[2024.11.21-01.07.15:209][964]LogContentBrowser: Renaming the item being created (Deferred Item: 0Padded).
+[2024.11.21-01.07.16:227][ 83]LogContentBrowser: Attempting asset rename: 0Padded -> 0Padded
+[2024.11.21-01.07.16:228][ 83]LogPaper2DEditor: Error: Tile sheet texture '0' is not BGRA8, cannot create a padded texture from it
+[2024.11.21-01.07.16:228][ 83]LogContentBrowser: End creating deferred item 0Padded
+[2024.11.21-01.07.20:387][536]LogContentBrowser: Deferred new asset file creation: 0Padded
+[2024.11.21-01.07.20:401][536]LogContentBrowser: Creating deferred item: 0Padded
+[2024.11.21-01.07.20:413][537]LogContentBrowser: Renaming the item being created (Deferred Item: 0Padded).
+[2024.11.21-01.07.21:209][633]LogContentBrowser: Attempting asset rename: 0Padded -> 0Padded
+[2024.11.21-01.07.21:209][633]LogPaper2DEditor: Error: Tile sheet texture '0' is not BGRA8, cannot create a padded texture from it
+[2024.11.21-01.07.21:209][633]LogContentBrowser: End creating deferred item 0Padded
+[2024.11.21-01.07.24:058][940]LogContentBrowser: Deferred new asset file creation: 00Padded
+[2024.11.21-01.07.24:072][940]LogContentBrowser: Creating deferred item: 00Padded
+[2024.11.21-01.07.24:083][941]LogContentBrowser: Renaming the item being created (Deferred Item: 00Padded).
+[2024.11.21-01.07.24:901][ 39]LogContentBrowser: Attempting asset rename: 00Padded -> 00Padded
+[2024.11.21-01.07.27:818][ 39]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00Padded.00Padded (BGRA8, 2048x1024 x1x1x1) (Required Memory Estimate: 61.395821 MB), EncodeSpeed: Fast
+[2024.11.21-01.07.27:824][ 39]LogContentBrowser: End creating deferred item 00Padded
+[2024.11.21-01.07.35:684][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.21-01.07.35:693][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.21-01.07.35:747][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.11.21-01.07.35:750][940]LogSavePackage: Moving output files for package: /Game/Maps/BossTempLevel
+[2024.11.21-01.07.35:751][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BossTempLevelC2E8EC454DB2A0036C51D0B58847A81D.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/BossTempLevel.umap'
+[2024.11.21-01.07.35:756][940]LogFileHelpers: Saving map 'BossTempLevel' took 0.040
+[2024.11.21-01.07.35:757][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet] ([1] browsable assets)...
+[2024.11.21-01.07.35:758][940]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.Tiles128x128_TileSet]
+[2024.11.21-01.07.35:758][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet]
+[2024.11.21-01.07.35:829][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet
+[2024.11.21-01.07.35:830][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Tiles128x128_TileSetA4C0F0B8425AF1A065FF55B73973E8DF.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.uasset'
+[2024.11.21-01.07.35:831][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet] ([1] browsable assets)...
+[2024.11.21-01.07.35:832][940]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet.BlackLight_TileSet]
+[2024.11.21-01.07.35:832][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet]
+[2024.11.21-01.07.35:894][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet
+[2024.11.21-01.07.35:894][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlackLight_TileSetE362DB364ACA5184B27B428E423FD4DA.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet.uasset'
+[2024.11.21-01.07.35:895][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet] ([1] browsable assets)...
+[2024.11.21-01.07.35:897][940]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet.7ForeGround_TileSet]
+[2024.11.21-01.07.35:897][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet]
+[2024.11.21-01.07.35:960][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet
+[2024.11.21-01.07.35:961][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/7ForeGround_TileSet3CB5A9164CF5768F14A3DBB1F37A33C2.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet.uasset'
+[2024.11.21-01.07.35:962][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet] ([1] browsable assets)...
+[2024.11.21-01.07.35:963][940]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet.6_TileSet]
+[2024.11.21-01.07.35:963][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet]
+[2024.11.21-01.07.36:026][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet
+[2024.11.21-01.07.36:027][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/6_TileSet691E273C47FA9FBBA02EFDB31D6DA2AC.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet.uasset'
+[2024.11.21-01.07.36:028][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet] ([1] browsable assets)...
+[2024.11.21-01.07.36:029][940]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet.5_TileSet]
+[2024.11.21-01.07.36:029][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet]
+[2024.11.21-01.07.36:094][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet
+[2024.11.21-01.07.36:094][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/5_TileSetFFE307A1406DA8C93447268F37664CBD.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet.uasset'
+[2024.11.21-01.07.36:096][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet] ([1] browsable assets)...
+[2024.11.21-01.07.36:098][940]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet.4_TileSet]
+[2024.11.21-01.07.36:098][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet]
+[2024.11.21-01.07.36:164][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet
+[2024.11.21-01.07.36:165][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/4_TileSetDEFB696F4FA3A175F257179EDF51F361.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet.uasset'
+[2024.11.21-01.07.36:166][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet] ([1] browsable assets)...
+[2024.11.21-01.07.36:168][940]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet.3_TileSet]
+[2024.11.21-01.07.36:168][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet]
+[2024.11.21-01.07.36:230][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet
+[2024.11.21-01.07.36:230][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/3_TileSet4880CA4248DC6B31A13012B19E00D54E.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet.uasset'
+[2024.11.21-01.07.36:231][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet] ([1] browsable assets)...
+[2024.11.21-01.07.36:233][940]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet.2_TileSet]
+[2024.11.21-01.07.36:233][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet]
+[2024.11.21-01.07.36:294][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet
+[2024.11.21-01.07.36:295][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/2_TileSet12821ADA449AC630EBA98D9615FBA11A.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet.uasset'
+[2024.11.21-01.07.36:296][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet] ([1] browsable assets)...
+[2024.11.21-01.07.36:298][940]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet.1_TileSet]
+[2024.11.21-01.07.36:298][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet]
+[2024.11.21-01.07.36:360][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet
+[2024.11.21-01.07.36:360][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/1_TileSetED1196684C7144CA38276299ECF521F2.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet.uasset'
+[2024.11.21-01.07.36:362][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet] ([1] browsable assets)...
+[2024.11.21-01.07.36:363][940]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet.00_TileSet]
+[2024.11.21-01.07.36:363][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet]
+[2024.11.21-01.07.36:426][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet
+[2024.11.21-01.07.36:427][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/00_TileSetEA8851424B6C6CC68FF717A90F0EB5F5.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet.uasset'
+[2024.11.21-01.07.36:428][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128Padded] ([1] browsable assets)...
+[2024.11.21-01.07.36:429][940]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128Padded.Tiles128x128Padded]
+[2024.11.21-01.07.36:429][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128Padded]
+[2024.11.21-01.07.36:441][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128Padded
+[2024.11.21-01.07.36:441][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Tiles128x128Padded24703BA94CBD6C52E9E44E8AD6A658B7.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/Tiles128x128Padded.uasset'
+[2024.11.21-01.07.36:442][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet1] ([1] browsable assets)...
+[2024.11.21-01.07.36:443][940]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet1.BlueLight_TileSet1]
+[2024.11.21-01.07.36:443][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet1]
+[2024.11.21-01.07.36:506][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet1
+[2024.11.21-01.07.36:506][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlueLight_TileSet13D3BD9B542FE5F8A6FDE408B48C8BB4C.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet1.uasset'
+[2024.11.21-01.07.36:507][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLightPadded] ([1] browsable assets)...
+[2024.11.21-01.07.36:509][940]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLightPadded.BlueLightPadded]
+[2024.11.21-01.07.36:509][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLightPadded]
+[2024.11.21-01.07.36:533][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLightPadded
+[2024.11.21-01.07.36:533][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlueLightPadded89CBBD9340F07243EEE68AA1EB14587D.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLightPadded.uasset'
+[2024.11.21-01.07.36:534][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLightPadded] ([1] browsable assets)...
+[2024.11.21-01.07.36:536][940]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLightPadded.BlackLightPadded]
+[2024.11.21-01.07.36:536][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLightPadded]
+[2024.11.21-01.07.36:558][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLightPadded
+[2024.11.21-01.07.36:558][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BlackLightPadded013CD97C400EBCB4A14905A049271D8C.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLightPadded.uasset'
+[2024.11.21-01.07.36:559][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGroundPadded] ([1] browsable assets)...
+[2024.11.21-01.07.36:560][940]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGroundPadded.7ForeGroundPadded]
+[2024.11.21-01.07.36:560][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGroundPadded]
+[2024.11.21-01.07.36:582][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGroundPadded
+[2024.11.21-01.07.36:582][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/7ForeGroundPaddedBCE5F7C94A52604492F1408D96D1C610.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGroundPadded.uasset'
+[2024.11.21-01.07.36:583][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6Padded] ([1] browsable assets)...
+[2024.11.21-01.07.36:585][940]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6Padded.6Padded]
+[2024.11.21-01.07.36:585][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6Padded]
+[2024.11.21-01.07.36:610][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6Padded
+[2024.11.21-01.07.36:610][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/6PaddedD5656AA24B807E472C4922B62FC09D26.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6Padded.uasset'
+[2024.11.21-01.07.36:612][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5Padded] ([1] browsable assets)...
+[2024.11.21-01.07.36:613][940]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5Padded.5Padded]
+[2024.11.21-01.07.36:613][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5Padded]
+[2024.11.21-01.07.36:635][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5Padded
+[2024.11.21-01.07.36:635][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/5PaddedB808642C42951A0F9916928A87D85D2D.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5Padded.uasset'
+[2024.11.21-01.07.36:637][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4Padded] ([1] browsable assets)...
+[2024.11.21-01.07.36:638][940]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4Padded.4Padded]
+[2024.11.21-01.07.36:638][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4Padded]
+[2024.11.21-01.07.36:662][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4Padded
+[2024.11.21-01.07.36:662][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/4Padded965BE19F458076BF1A03598002220B27.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4Padded.uasset'
+[2024.11.21-01.07.36:663][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3Padded] ([1] browsable assets)...
+[2024.11.21-01.07.36:665][940]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3Padded.3Padded]
+[2024.11.21-01.07.36:665][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3Padded]
+[2024.11.21-01.07.36:686][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3Padded
+[2024.11.21-01.07.36:686][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/3Padded72EF1FA44805EAD8072450B1DF6B1D29.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3Padded.uasset'
+[2024.11.21-01.07.36:687][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2Padded] ([1] browsable assets)...
+[2024.11.21-01.07.36:689][940]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2Padded.2Padded]
+[2024.11.21-01.07.36:689][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2Padded]
+[2024.11.21-01.07.36:711][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2Padded
+[2024.11.21-01.07.36:711][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/2Padded290BB2E44AA89DF5382337B845A1A661.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2Padded.uasset'
+[2024.11.21-01.07.36:712][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1Padded] ([1] browsable assets)...
+[2024.11.21-01.07.36:714][940]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1Padded.1Padded]
+[2024.11.21-01.07.36:714][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1Padded]
+[2024.11.21-01.07.36:735][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1Padded
+[2024.11.21-01.07.36:735][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/1Padded7381C7984F3B40832C0CE8B3D7BE2142.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1Padded.uasset'
+[2024.11.21-01.07.36:736][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00Padded] ([1] browsable assets)...
+[2024.11.21-01.07.36:737][940]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00Padded.00Padded]
+[2024.11.21-01.07.36:737][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00Padded]
+[2024.11.21-01.07.36:762][940]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00Padded
+[2024.11.21-01.07.36:762][940]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/00Padded4E413E2841E10D262A99F5ACBC6AB5E5.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00Padded.uasset'
+[2024.11.21-01.07.36:770][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.07 sec (total: 9.54 sec)
+[2024.11.21-01.07.36:804][940]LogContentValidation: Display: Starting to validate 23 assets
+[2024.11.21-01.07.36:804][940]LogContentValidation: Enabled validators:
+[2024.11.21-01.07.36:804][940]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.21-01.07.36:804][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.21-01.07.36:804][940]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.21-01.07.36:804][940]LogContentValidation: Display: Validating asset /Game/Maps/BossTempLevel.BossTempLevel
+[2024.11.21-01.07.36:804][940]AssetCheck: /Game/Maps/BossTempLevel Validating asset
+[2024.11.21-01.07.36:804][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.Tiles128x128_TileSet
+[2024.11.21-01.07.36:804][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet Validating asset
+[2024.11.21-01.07.36:804][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet.BlackLight_TileSet
+[2024.11.21-01.07.36:804][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLight_TileSet Validating asset
+[2024.11.21-01.07.36:804][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet.7ForeGround_TileSet
+[2024.11.21-01.07.36:804][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGround_TileSet Validating asset
+[2024.11.21-01.07.36:804][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet.6_TileSet
+[2024.11.21-01.07.36:804][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6_TileSet Validating asset
+[2024.11.21-01.07.36:804][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet.5_TileSet
+[2024.11.21-01.07.36:804][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5_TileSet Validating asset
+[2024.11.21-01.07.36:804][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet.4_TileSet
+[2024.11.21-01.07.36:804][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4_TileSet Validating asset
+[2024.11.21-01.07.36:804][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet.3_TileSet
+[2024.11.21-01.07.36:804][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3_TileSet Validating asset
+[2024.11.21-01.07.36:804][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet.2_TileSet
+[2024.11.21-01.07.36:804][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2_TileSet Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet.1_TileSet
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1_TileSet Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet.00_TileSet
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00_TileSet Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128Padded.Tiles128x128Padded
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128Padded Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet1.BlueLight_TileSet1
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLight_TileSet1 Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLightPadded.BlueLightPadded
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlueLightPadded Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLightPadded.BlackLightPadded
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/BlackLightPadded Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGroundPadded.7ForeGroundPadded
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/7ForeGroundPadded Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6Padded.6Padded
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/6Padded Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5Padded.5Padded
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/5Padded Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4Padded.4Padded
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/4Padded Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3Padded.3Padded
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/3Padded Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2Padded.2Padded
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/2Padded Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1Padded.1Padded
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/1Padded Validating asset
+[2024.11.21-01.07.36:805][940]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00Padded.00Padded
+[2024.11.21-01.07.36:805][940]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/BackGround_Layers/00Padded Validating asset
+[2024.11.21-01.07.38:805][172]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.TM_Temp_Boss_Map
+[2024.11.21-01.08.28:854][101]LogDerivedDataCache: C:/Users/mumur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.21-01.08.34:349][760]Cmd: TRANSACTION UNDO
+[2024.11.21-01.08.34:349][760]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.08.37:193][ 65]Cmd: TRANSACTION UNDO
+[2024.11.21-01.08.37:193][ 65]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.08.42:018][642]Cmd: TRANSACTION UNDO
+[2024.11.21-01.08.42:018][642]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.08.50:037][568]Cmd: TRANSACTION UNDO
+[2024.11.21-01.08.50:037][568]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.09.00:820][826]Cmd: TRANSACTION UNDO
+[2024.11.21-01.09.00:820][826]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.09.13:904][361]Cmd: TRANSACTION UNDO
+[2024.11.21-01.09.13:904][361]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.09.24:992][653]Cmd: TRANSACTION UNDO
+[2024.11.21-01.09.24:992][653]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.09.27:153][876]Cmd: TRANSACTION UNDO
+[2024.11.21-01.09.27:153][876]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.09.39:849][397]Cmd: TRANSACTION UNDO
+[2024.11.21-01.09.39:849][397]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.09.42:167][640]Cmd: TRANSACTION UNDO
+[2024.11.21-01.09.42:167][640]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.09.44:569][926]Cmd: TRANSACTION UNDO
+[2024.11.21-01.09.44:569][926]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.09.47:429][236]Cmd: TRANSACTION UNDO
+[2024.11.21-01.09.47:430][236]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.09.52:271][814]Cmd: TRANSACTION UNDO
+[2024.11.21-01.09.52:271][814]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.09.54:894][ 97]Cmd: TRANSACTION UNDO
+[2024.11.21-01.09.54:894][ 97]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.10.05:797][403]Cmd: TRANSACTION UNDO
+[2024.11.21-01.10.05:797][403]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.10.06:153][422]Cmd: TRANSACTION UNDO
+[2024.11.21-01.10.06:153][422]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.10.08:936][737]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128Padded.Tiles128x128Padded
+[2024.11.21-01.10.08:985][737]LogTexture: Display: Building textures: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128Padded.Tiles128x128Padded (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 30.72916 MB), EncodeSpeed: Final
+[2024.11.21-01.10.14:485][369]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.Tiles128x128_TileSet
+[2024.11.21-01.11.29:849][431]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-01.11.29:849][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.11.29:866][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.11.21-01.11.36:620][231]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.Tiles128x128_TileSet
+[2024.11.21-01.13.35:183][110]Cmd: TRANSACTION UNDO
+[2024.11.21-01.13.35:183][110]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.13.35:516][127]Cmd: TRANSACTION UNDO
+[2024.11.21-01.13.35:516][127]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.13.35:778][146]Cmd: TRANSACTION UNDO
+[2024.11.21-01.13.35:778][146]LogEditorTransaction: Undo Tile Painting
+[2024.11.21-01.14.10:296][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.21-01.14.10:300][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.21-01.14.10:325][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet] ([1] browsable assets)...
+[2024.11.21-01.14.10:327][266]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.Tiles128x128_TileSet]
+[2024.11.21-01.14.10:327][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet]
+[2024.11.21-01.14.10:409][266]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet
+[2024.11.21-01.14.10:410][266]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/Tiles128x128_TileSet28882A59417582E73BD7429C1DD7C387.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.uasset'
+[2024.11.21-01.14.10:411][266]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map] ([1] browsable assets)...
+[2024.11.21-01.14.10:411][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map]
+[2024.11.21-01.14.10:480][266]LogSavePackage: Moving output files for package: /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map
+[2024.11.21-01.14.10:481][266]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/TM_Temp_Boss_MapD5451DB64F82E74B56800790BEAA9C91.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.uasset'
+[2024.11.21-01.14.10:487][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.597 ms (total: 9.73 sec)
+[2024.11.21-01.14.10:515][266]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.21-01.14.10:516][266]LogContentValidation: Enabled validators:
+[2024.11.21-01.14.10:516][266]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.21-01.14.10:516][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.21-01.14.10:516][266]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.21-01.14.10:516][266]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet.Tiles128x128_TileSet
+[2024.11.21-01.14.10:516][266]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/Tiles128x128_TileSet Validating asset
+[2024.11.21-01.14.10:516][266]LogContentValidation: Display: Validating asset /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map.TM_Temp_Boss_Map
+[2024.11.21-01.14.10:516][266]AssetCheck: /Game/PaperAssets/Environment/Cave_Theme/TM_Temp_Boss_Map Validating asset
+[2024.11.21-01.14.11:763][413]LogEditorViewport: Clicking Background
+[2024.11.21-01.14.11:791][413]LogSlate: Took 0.005604 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.11.21-01.14.45:797][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.21-01.15.29:185][930]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.21-01.15.29:194][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.21-01.15.29:194][930]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossTempLevel
+[2024.11.21-01.15.29:195][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000669s)
+[2024.11.21-01.15.29:195][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossTempLevel.BossTempLevel to /Game/Maps/UEDPIE_0_BossTempLevel.BossTempLevel (0.000701s)
+[2024.11.21-01.15.29:200][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.11.21-01.15.29:202][930]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.21-01.15.29:203][930]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2024.11.21-01.15.29:210][930]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.11.21-01.15.29:211][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.21-01.15.29:211][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.21-01.15.29:211][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.21-01.15.29:211][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.21-01.15.29:211][930]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.21-01.15.29:211][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.21-01.15.29:211][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.21-01.15.29:211][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.21-01.15.29:211][930]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.21-01.15.29:211][930]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.21-01.15.29:211][930]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.21-01.15.29:212][930]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.21-01.15.29:230][930]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud Alpha Wireless)
+[2024.11.21-01.15.29:231][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.21-01.15.29:231][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.21-01.15.29:231][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.21-01.15.29:232][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.11.21-01.15.29:232][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.11.21-01.15.29:234][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.11.21-01.15.29:234][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.11.21-01.15.29:234][930]LogInit: FAudioDevice initialized with ID 3.
+[2024.11.21-01.15.29:234][930]LogAudio: Display: Audio Device (ID: 3) registered with world 'BossTempLevel'.
+[2024.11.21-01.15.29:234][930]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.21-01.15.29:237][930]LogLoad: Game class is 'GM_Platformer_C'
+[2024.11.21-01.15.29:238][930]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossTempLevel.BossTempLevel up for play (max tick rate 0) at 2024.11.20-19.15.29
+[2024.11.21-01.15.29:238][930]LogWorld: Bringing up level for play took: 0.000663
+[2024.11.21-01.15.29:239][930]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.11.21-01.15.29:251][930]PIE: Server logged in
+[2024.11.21-01.15.29:251][930]PIE: Play in editor total start time 0.06 seconds.
+[2024.11.21-01.15.30:146][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.21-01.15.30:146][ 30]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossTempLevel
+[2024.11.21-01.15.30:146][ 30]LogWorld: UWorld::CleanupWorld for BossTempLevel, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-01.15.30:147][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.15.30:147][ 30]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.21-01.15.30:147][ 30]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.21-01.15.30:151][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.21-01.15.30:153][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.15.30:158][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.21-01.15.30:158][ 30]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.21-01.15.30:158][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.21-01.15.30:159][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.21-01.15.30:164][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.21-01.15.30:240][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.11.21-01.15.47:471][989]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.11.21-01.15.47:471][989]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.11.21-01.15.47:473][989]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/BossTempLevel.BossTempLevel:PersistentLevel.PlayerStart_0
+[2024.11.21-01.15.47:473][989]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.21-01.15.47:473][989]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/BossTempLevel.BossTempLevel:PersistentLevel.PlayerStart_0
+[2024.11.21-01.15.47:473][989]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.21-01.15.47:494][989]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.21-01.15.52:990][641]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.21-01.16.02:209][739]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.21-01.16.02:960][826]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.21-01.16.02:969][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.21-01.16.02:996][826]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossTempLevel
+[2024.11.21-01.16.02:997][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001379s)
+[2024.11.21-01.16.02:997][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossTempLevel.BossTempLevel to /Game/Maps/UEDPIE_0_BossTempLevel.BossTempLevel (0.001434s)
+[2024.11.21-01.16.03:004][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.21-01.16.03:007][826]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.21-01.16.03:007][826]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2024.11.21-01.16.03:016][826]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.11.21-01.16.03:016][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.21-01.16.03:016][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.21-01.16.03:016][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.21-01.16.03:016][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.21-01.16.03:016][826]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.21-01.16.03:016][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.21-01.16.03:016][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.21-01.16.03:016][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.21-01.16.03:016][826]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.21-01.16.03:016][826]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.21-01.16.03:016][826]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.21-01.16.03:018][826]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.21-01.16.03:036][826]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud Alpha Wireless)
+[2024.11.21-01.16.03:036][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.21-01.16.03:036][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.21-01.16.03:036][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.21-01.16.03:037][826]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.11.21-01.16.03:037][826]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.11.21-01.16.03:038][826]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.11.21-01.16.03:038][826]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.11.21-01.16.03:038][826]LogInit: FAudioDevice initialized with ID 4.
+[2024.11.21-01.16.03:038][826]LogAudio: Display: Audio Device (ID: 4) registered with world 'BossTempLevel'.
+[2024.11.21-01.16.03:038][826]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.21-01.16.03:040][826]LogLoad: Game class is 'GM_Platformer_C'
+[2024.11.21-01.16.03:041][826]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossTempLevel.BossTempLevel up for play (max tick rate 0) at 2024.11.20-19.16.03
+[2024.11.21-01.16.03:041][826]LogWorld: Bringing up level for play took: 0.000673
+[2024.11.21-01.16.03:043][826]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.11.21-01.16.03:053][826]PIE: Server logged in
+[2024.11.21-01.16.03:053][826]PIE: Play in editor total start time 0.086 seconds.
+[2024.11.21-01.16.15:757][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.21-01.16.15:757][344]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossTempLevel
+[2024.11.21-01.16.15:757][344]LogWorld: UWorld::CleanupWorld for BossTempLevel, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-01.16.15:757][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.16.15:757][344]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.21-01.16.15:757][344]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.21-01.16.15:759][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.21-01.16.15:762][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.16.15:767][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.21-01.16.15:768][344]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.21-01.16.15:768][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.21-01.16.15:769][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.21-01.16.15:774][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.11.21-01.16.15:834][345]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.11.21-01.16.16:929][473]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.21-01.16.16:938][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.21-01.16.16:966][473]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossTempLevel
+[2024.11.21-01.16.16:967][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000838s)
+[2024.11.21-01.16.16:967][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossTempLevel.BossTempLevel to /Game/Maps/UEDPIE_0_BossTempLevel.BossTempLevel (0.000896s)
+[2024.11.21-01.16.16:972][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.11.21-01.16.16:973][473]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.21-01.16.16:974][473]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2024.11.21-01.16.16:982][473]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.11.21-01.16.16:982][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.21-01.16.16:982][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.21-01.16.16:982][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.21-01.16.16:982][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.21-01.16.16:982][473]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.21-01.16.16:982][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.21-01.16.16:982][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.21-01.16.16:982][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.21-01.16.16:982][473]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.21-01.16.16:982][473]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.21-01.16.16:982][473]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.21-01.16.16:984][473]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.21-01.16.17:002][473]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud Alpha Wireless)
+[2024.11.21-01.16.17:002][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.21-01.16.17:002][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.21-01.16.17:002][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.21-01.16.17:002][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.11.21-01.16.17:002][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.11.21-01.16.17:004][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.11.21-01.16.17:004][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.11.21-01.16.17:004][473]LogInit: FAudioDevice initialized with ID 5.
+[2024.11.21-01.16.17:004][473]LogAudio: Display: Audio Device (ID: 5) registered with world 'BossTempLevel'.
+[2024.11.21-01.16.17:004][473]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.21-01.16.17:006][473]LogLoad: Game class is 'GM_Platformer_C'
+[2024.11.21-01.16.17:007][473]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossTempLevel.BossTempLevel up for play (max tick rate 0) at 2024.11.20-19.16.17
+[2024.11.21-01.16.17:007][473]LogWorld: Bringing up level for play took: 0.000661
+[2024.11.21-01.16.17:008][473]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.11.21-01.16.17:018][473]PIE: Server logged in
+[2024.11.21-01.16.17:018][473]PIE: Play in editor total start time 0.082 seconds.
+[2024.11.21-01.16.24:407][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.21-01.16.24:407][355]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossTempLevel
+[2024.11.21-01.16.24:407][355]LogWorld: UWorld::CleanupWorld for BossTempLevel, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-01.16.24:407][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.16.24:407][355]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.21-01.16.24:407][355]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.21-01.16.24:409][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.21-01.16.24:412][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.16.24:417][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.21-01.16.24:418][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.21-01.16.24:418][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.21-01.16.24:419][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.21-01.16.24:423][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.21-01.16.24:485][356]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.11.21-01.16.27:583][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.21-01.16.27:589][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.21-01.16.27:648][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.21-01.16.27:652][701]LogSavePackage: Moving output files for package: /Game/Maps/BossTempLevel
+[2024.11.21-01.16.27:653][701]LogSavePackage: Moving '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Saved/BossTempLevel3955CFDB4516442DA2D8B4B7DEA3097C.tmp' to '../../../../../Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/BossTempLevel.umap'
+[2024.11.21-01.16.27:659][701]LogFileHelpers: Saving map 'BossTempLevel' took 0.044
+[2024.11.21-01.16.27:679][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.044 ms (total: 9.82 sec)
+[2024.11.21-01.16.27:706][701]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.21-01.16.27:706][701]LogContentValidation: Enabled validators:
+[2024.11.21-01.16.27:706][701]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.21-01.16.27:706][701]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.21-01.16.27:706][701]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.21-01.16.27:706][701]LogContentValidation: Display: Validating asset /Game/Maps/BossTempLevel.BossTempLevel
+[2024.11.21-01.16.27:706][701]AssetCheck: /Game/Maps/BossTempLevel Validating asset
+[2024.11.21-01.16.34:184][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.21-01.16.34:219][456]LogStall: Shutdown...
+[2024.11.21-01.16.34:222][456]LogStall: Shutdown complete.
+[2024.11.21-01.16.34:247][456]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-01.16.34:248][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.16.34:272][456]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-01.16.34:272][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.16.34:320][456]LogSlate: Window 'Turtles - Unreal Editor' being destroyed
+[2024.11.21-01.16.34:417][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.11.21-01.16.34:433][456]Cmd: QUIT_EDITOR
+[2024.11.21-01.16.34:433][457]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.11.21-01.16.34:440][457]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.11.21-01.16.34:441][457]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.11.21-01.16.34:441][457]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.11.21-01.16.34:442][457]LogWorld: UWorld::CleanupWorld for BossTempLevel, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-01.16.34:442][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.16.34:442][457]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.21-01.16.34:442][457]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.21-01.16.34:456][457]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.11.21-01.16.34:461][457]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.21-01.16.34:461][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.21-01.16.34:648][457]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.11.21-01.16.34:650][457]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.11.21-01.16.34:650][457]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.11.21-01.16.34:650][457]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.11.21-01.16.35:232][457]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.11.21-01.16.35:232][457]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.11.21-01.16.35:232][457]LogAudio: Display: Audio Device unregistered from world 'BossTempLevel'.
+[2024.11.21-01.16.35:232][457]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.11.21-01.16.35:232][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.11.21-01.16.35:234][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.11.21-01.16.35:243][457]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.11.21-01.16.35:244][457]LogAudio: Display: Audio Device Manager Shutdown
+[2024.11.21-01.16.35:244][457]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.11.21-01.16.35:249][457]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.11.21-01.16.35:251][457]LogExit: Preparing to exit.
+[2024.11.21-01.16.35:274][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.21-01.16.35:881][457]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.11.21-01.16.35:909][457]LogExit: Editor shut down
+[2024.11.21-01.16.35:911][457]LogExit: Transaction tracking system shut down
+[2024.11.21-01.16.36:153][457]LogExit: Object subsystem successfully closed.
+[2024.11.21-01.16.36:257][457]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.11.21-01.16.36:828][457]MemoryProfiler: Shutdown
+[2024.11.21-01.16.36:828][457]NetworkingProfiler: Shutdown
+[2024.11.21-01.16.36:828][457]LoadingProfiler: Shutdown
+[2024.11.21-01.16.36:829][457]TimingProfiler: Shutdown
+[2024.11.21-01.16.36:924][457]LogOpenImageDenoise: OIDN shutting down
+[2024.11.21-01.16.37:224][457]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.11.21-01.16.37:228][457]RenderDocPlugin: plugin has been unloaded.
+[2024.11.21-01.16.37:254][457]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.11.21-01.16.37:255][457]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE3F1A71D-4A38-E51F-A9E0-0788ED766AF7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=1dbf2c7349bc2b0c379bbbb5861eec79%7C2bcb6839b2964734808334b0f150dcc1%7C9062a35c-befa-42d8-8243-d047ddf1ca11&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.11.21-01.16.37:287][457]LogXGEController: Cleaning working directory: C:/Users/mumur/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.11.21-01.16.37:292][457]LogPakFile: Destroying PakPlatformFile
+[2024.11.21-01.16.37:363][457]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.11.21-01.16.37:378][457]LogExit: Exiting.
+[2024.11.21-01.16.37:400][457]Log file closed, 11/20/24 19:16:37
