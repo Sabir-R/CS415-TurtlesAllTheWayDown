@@ -4,3 +4,10 @@
 *.ini
 *.ush
 Turtles/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+/Turtles/Saved/Config/CrashReportClient
+/Turtles/Intermediate
+/Turtles/Saved/ShaderDebugInfo
+Turtles/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_ea5d70b5306083b5/Default/DDCKey-Editor.txt
+Turtles/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Turtles/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+Turtles/Saved/Telemetry/Telemetry.json
