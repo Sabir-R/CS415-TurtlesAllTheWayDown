@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/bowen/OneDrive/Desktop/git/CS415/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/2d_Test.umap",
+				"C:/Users/bowen/OneDrive/Desktop/git/CS415/CS415-TurtlesAllTheWayDown/Turtles/Content/enemies/BP_Enemy_bullet.uasset",
+				"C:/Users/bowen/OneDrive/Desktop/git/CS415/CS415-TurtlesAllTheWayDown/Turtles/Content/enemies/BP_Enemy_Shrooms_pewpew.uasset",
 				"C:/Users/plasm.SEANKOO/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/MainLevel/MainLevel.umap",
 				"C:/Users/plasm.SEANKOO/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Dungeon_Tile_Set/MainLevel.uasset",
 				"C:/Users/plasm.SEANKOO/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/FlyingEnemy/Eagle/BP_Flying_enemy.uasset",
