@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Github/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Character/BP_Player.uasset",
+				"C:/Github/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Door.uasset",
+				"C:/Github/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/MainLevel/MainLevel.umap",
+				"C:/Github/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Boss/Bee_boss/Boss_BP/Bee_Boss_RF/BP_BuzzLord.uasset",
 				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/FlyingEnemy/Eagle/eagle-attack.uasset",
 				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Dungeon_Tile_Set/MainLevel.uasset",
 				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/MainLevel/MainLevel.umap",
