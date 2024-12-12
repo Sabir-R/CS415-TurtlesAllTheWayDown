@@ -5,18 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/FlyingEnemy/Eagle/eagle-attack.uasset",
+				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Dungeon_Tile_Set/MainLevel.uasset",
+				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/MainLevel/MainLevel.umap",
+				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/Tutorial/GameStartScreen.umap",
+				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Dungeon_Tile_Set/StartGameLevel.uasset",
+				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Sound/OOF.uasset",
+				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Sound/shroom.uasset",
+				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Sound/sword.uasset",
 				"C:/Users/bowen/OneDrive/Desktop/git/CS415/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/2d_Test.umap",
 				"C:/Users/bowen/OneDrive/Desktop/git/CS415/CS415-TurtlesAllTheWayDown/Turtles/Content/enemies/BP_Enemy_bullet.uasset",
 				"C:/Users/bowen/OneDrive/Desktop/git/CS415/CS415-TurtlesAllTheWayDown/Turtles/Content/enemies/BP_Enemy_Shrooms_pewpew.uasset",
 				"C:/Users/plasm.SEANKOO/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/MainLevel/MainLevel.umap",
 				"C:/Users/plasm.SEANKOO/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Dungeon_Tile_Set/MainLevel.uasset",
 				"C:/Users/plasm.SEANKOO/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/FlyingEnemy/Eagle/BP_Flying_enemy.uasset",
-				"C:/Users/plasm.SEANKOO/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Ground_enemy/Slime/BP_Slime_enemy.uasset",
-				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/FlyingEnemy/Eagle/eagle-attack.uasset",
-				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Dungeon_Tile_Set/MainLevel.uasset",
-				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/MainLevel/MainLevel.umap",
-				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Maps/Tutorial/GameStartScreen.umap",
-				"C:/Users/mumur/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/PaperAssets/Environment/Dungeon_Tile_Set/StartGameLevel.uasset"
+				"C:/Users/plasm.SEANKOO/Documents/GitHub/CS415-TurtlesAllTheWayDown/Turtles/Content/Ground_enemy/Slime/BP_Slime_enemy.uasset"
 			]
 		}
 	]
